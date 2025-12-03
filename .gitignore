@@ -1,0 +1,20 @@
+# Data
+data/
+*.csv
+*.txt
+*.zip
+
+# Models and Artifacts
+models/
+*.pkl
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
