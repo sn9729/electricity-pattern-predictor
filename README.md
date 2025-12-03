@@ -35,8 +35,8 @@ This project uses the *Individual Household Electric Power Consumption* dataset 
 
 ## 📂 Files
 ```
-review3.ipynb   # Notebook version
-review3.py      # Script version
+mlproject.ipynb   # Notebook version
+mlproject.py      # Script version
 README.md
 ```
 
@@ -53,7 +53,7 @@ pip install pandas numpy scikit-learn matplotlib joblib
 Place dataset:
 
 - Colab: `/content/household_power_consumption.txt`
-- Local: Update `dataset_path` in `review3.py`
+- Local: Update `dataset_path` in `mlproject.py`
 
 ---
 
@@ -64,7 +64,7 @@ Upload the notebook and dataset, then run all cells.
 
 ### Local
 ```bash
-python review3.py
+python mlproject.py
 ```
 
 ---
