@@ -54,7 +54,7 @@ After running the script, check the `models/` directory for:
 ## 📊 Model Performance
 - **Algorithm**: Random Forest Regressor
 - **Metrics**:
-  - R² Score: ~0.99 (Excellent fit)
+  - R² Score: ~0.97 (Realistic fit)
   - MSE: Very low error on test set
 - **Key Features**: Voltage, Global Intensity, Sub-metering, Time of Day, Lag Features.
 
